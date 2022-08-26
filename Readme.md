@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/project-11-red)
 
-## Project-11  [live Link](https://hosting-page-design.netlify.app/)
+## Project-11  [live Link](https://html-project-11.netlify.app/)
 
 **Name:** Rajit kumar
 
@@ -16,4 +16,4 @@
 ![image](https://img.shields.io/badge/Full%20stack%20JS%20bootcamp-Hitesh%20Chaudhary-lightgrey)
 
 
-![image](https://github.com/Rajit909/Html-project-11/10.png)
+![image](https://github.com/Rajit909/Html-project-11/blob/main/11.png)
