@@ -518,52 +518,22 @@ footer{
         width: 260px;
     }
 }
-@media screen and (max-width:800px){
 
-    .list>button{
-        font-size: 15px;
-        padding: 15px 10px;
-        width: 150px;
-    }
-    .intro-section{
-        padding: 0px 40px;
-    }
-    .intro-content p{
-        font-size: 15px;
-        width: 300px;
-    }
-    .right-intro-section{
-        width: 45%;
-    }
-    .technical-img{
-        right: 220px;
-    }
-    .service-head>h1{
-        width: 400px;
-        font-size: 1.9rem;
-    }
-    .price-cards{
-        padding: 0% 20px;
-    }
-    .price-cards .price-card{
-        width: 250px;
-    }
-}
-
-@media screen and (max-width:600px){
+@media screen and (max-width:750px){
     .logo{
         margin-left: 0px;
     }
-    .list>li>a{
-        font-size: 14px;
-    }
-    .list>li{
-        width: 20px;
+    .nav-link{
+        display: none;
     }
     .list>button{
+        margin-left: 20px;
         font-size: 14px;
         padding: 10px 10px;
         width: 120px;
+    }
+    .intro-content{
+        width: 400px;
     }
     .left-intro-section{
         width: 50%;
@@ -598,6 +568,9 @@ footer{
         width: 500px;
         font-size: 2.9rem;
         margin-bottom: 30px;
+    }
+    .review-header-part>p{
+        width: 400px;
     }
     .service-head>p{
         width: 400px;
